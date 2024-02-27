@@ -7,3 +7,6 @@
 /extra/ssl/dhparam.pem
 /extra/ssl/nginx*
 /traefik/certs/*
+.envrc
+.direnv
+shell.nix
